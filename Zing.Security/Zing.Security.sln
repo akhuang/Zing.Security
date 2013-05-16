@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zing.Security", "Zing.Security\Zing.Security.csproj", "{306239B3-FE2F-43B2-9A6C-01BE13CC9ED0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zing.Framework", "Zing.Framework\Zing.Framework.csproj", "{C5D2A254-9FFD-4C07-BDF2-C71A9C8BC482}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{306239B3-FE2F-43B2-9A6C-01BE13CC9ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{306239B3-FE2F-43B2-9A6C-01BE13CC9ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{306239B3-FE2F-43B2-9A6C-01BE13CC9ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D2A254-9FFD-4C07-BDF2-C71A9C8BC482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D2A254-9FFD-4C07-BDF2-C71A9C8BC482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D2A254-9FFD-4C07-BDF2-C71A9C8BC482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D2A254-9FFD-4C07-BDF2-C71A9C8BC482}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
